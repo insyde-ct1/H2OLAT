@@ -1,0 +1,3 @@
+License: The H2OLAT.exe leverages bratx module which belongs to GPLv2 license. The source code from https://sourceforge.net/projects/btrax/.
+
+In order to compliant with the GPL rule, all of H2OLAT code change are published via github https://github.com/insyde-ct1/H2OLAT.
